@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873897227046",
+    "project_id": "proyectocorte-71749",
+    "storage_bucket": "proyectocorte-71749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873897227046:android:e67062cba22ba8386c47e7",
+        "android_client_info": {
+          "package_name": "com.example.appnotificacionescorte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaIbDDIAZ5XfZBivDYb6yT__NUKQfaFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
